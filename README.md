@@ -1,16 +1,17 @@
-### Hi there 👋
+# VidComp
 
-<!--
-**darkenedcyrus/darkenedcyrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+VidComp is a full featured video editor, powered by your browser
 
-Here are some ideas to get you started:
+All processing by the editor occurs at the client
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently VidComp works best with Chrome be it mobile or desktop**
+
+## Editing
+<img src="documentation/layercontroldemo.gif"/>
+
+## Rendering
+<img src="documentation/renderingdemo.gif"/>
+
+## Documentation
+<a href="https://www.youtube.com/watch?v=86hsgDPnjL8" target="_blank">Video of me talking about VidComp<a></p>
+
